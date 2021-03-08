@@ -6,7 +6,7 @@
 
 In this practical assignment, you are to add your responses to the questions in blue of the lab. Your reflection should be about a page and contain clear and meaningful language. Please use markdown language to format your reflection piece.
 
-Please write below this line to address the above-mentioned points. Replace the word, `TODO` with your response.
+Please write below this line to address the above-mentioned points. Replace the word, with your response.
 
 ### Computer Aided Drug Design
 
