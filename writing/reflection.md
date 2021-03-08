@@ -11,7 +11,7 @@ Please write below this line to address the above-mentioned points. Replace the 
 ### Computer Aided Drug Design
 
  1. What kind of research is this method or tool used for?
- Computer aided drug design or CADD lets scientists study the effects that different chemical compounds have in relationship to one another. It helps scientists understand complex chemical and biological processes without having to have the equipment and time they may normally need to make the same discoveries in a labratory settings.
+ Computer aided drug design or CADD lets scientists study the effects that different chemical compounds have in relationship to one another. It helps scientists understand complex chemical and biological processes without having to have the equipment and time they may normally need to make the same discoveries in a laboratory settings.
 
  2. How does this method or tool work? What does it do?
  It uses algorithms that simulate chemical reactions and interactions. It finds possible drug matches that may solve the problem the users are looking into.
